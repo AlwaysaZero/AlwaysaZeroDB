@@ -1,0 +1,2 @@
+# AlwaysaZeroDB
+DatabaseZero.json
